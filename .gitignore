@@ -213,5 +213,4 @@ __marimo__/
 /cache
 
 # Model
-model.pth
-best_model.pth
+*.pth
